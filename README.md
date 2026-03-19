@@ -24,9 +24,9 @@ Repositório criado para o desafio da DIO, com foco em Engenharia de Prompts.
 - [Hands-On LLMs (PDF)](https://elibrary-dev.nusamandiri.ac.id/assets/fileebook/250153.pdf)
 
 ###  Extras
-- [Curso Online – Engenharia de Prompt (Alura)](https://www.alura.com.br/curso-online-engenharia-prompts)  
-- [Formação Engenharia de Prompts com IA (Udemy)](https://www.udemy.com/course/engenharia-de-prompts-ia/)
-
+- [ChatGPT Prompt Engineering for Developers – DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)  
+- [Prompt Engineering Guide – DAIR.AI](https://www.promptingguide.ai/)
+- [Stanford CS324 – Large Language Models Course](https://stanford-cs324.github.io/winter2022/)
 ---
 
 ## Engenharia de Prompts (Testes e Cicatrizes)
