@@ -19,8 +19,8 @@ Repositório criado para o desafio da DIO, com foco em Engenharia de Prompts.
 - [Prompt Engineering Explained (DeepLearning.AI)](https://www.youtube.com/watch?v=dOxUroR57xs)
 
 ###  Livros
-- [Engenharia de Prompts – Como se Tornar Especialista de Prompts de IA (Amazon)](https://www.amazon.com.br/dp/B0CGLX9Z8P)  
-- [Prompt Engineering for Developers (Casa do Código)](https://www.casadocodigo.com.br/products/livro-prompt-engineering)
+- [Artificial Intelligence Basics – Tom Taulli](https://www.amazon.com.br/dp/1484250273) 
+- [Designing Machine Learning Systems – Chip Huyen](https://www.amazon.com.br/dp/1098107969)
 - [Designing Machine Learning Systems (PDF)](https://18636251.s21i.faiusr.com/61/ABUIABA9GAAghIK0ugYowM2h3QY.pdf)
 - [Hands-On LLMs (PDF)](https://elibrary-dev.nusamandiri.ac.id/assets/fileebook/250153.pdf)
 
