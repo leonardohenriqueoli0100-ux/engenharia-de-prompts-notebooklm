@@ -11,7 +11,8 @@ Repositório criado para o desafio da DIO, com foco em Engenharia de Prompts.
 ## Curadoria de Fontes
 ###  Artigos
 - [The Prompt Report: A Systematic Survey of Prompting Techniques (2024)](https://arxiv.org/abs/2406.06608)
-- [O que é Engenharia de Prompt e principais técnicas (Alura)](https://www.alura.com.br/artigos/engenharia-de-prompts)
+- [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
+- - [Prompt Engineering Guide – DAIR.AI](https://www.promptingguide.ai/)
 
 ###  Vídeos
 - [Domine a Arte dos Prompts (YouTube - Canal Inteligência Artificial)](https://www.youtube.com/watch?v=1VDcke66TRE)  
